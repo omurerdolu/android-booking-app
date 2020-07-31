@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="title_activity_login">Giriş Yap</string>
+    <string name="prompt_email">E-posta</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Giriş</string>
+    <string name="action_sign_in_short">Giriş</string>
+    <string name="welcome">"Hosgeldiniz!"</string>
+    <string name="invalid_fields">Tüm alanları eksiksiz giriniz.</string>
+    <string name="password_not_confirmed">Şifreler eşleşmiyor!</string>
+    <string name="invalid_username">Geçersiz kullanıcı adı veya şifre</string>
+    <string name="login_is_proccess">Giriş yapılıyor. Lütfen bekleyiniz..</string>
+    <string name="signup_is_proccess">Kayıt işlemi gerçekleştiriliyor. Lütfen bekleyiniz..</string>
+    <string name="signup_success">Kayıt işlemi başarıyla tamamlandı.</string>
+    <string name="signup_failed">Kayıt işlemi sırasında bir hata oluştu.</string>
+    <string name="mail_already_using">E-posta adresi zaten kullanılıyor.</string>
+    <string name="update_is_proccess">Güncelleme işlemi gerçekleştiriliyor. Lütfen bekleyiniz..</string>
+    <string name="update_success">Güncelleme işlemi başarıyla tamamlandı.</string>
+    <string name="login_failed">"Giriş Hatası"</string>
+    <string name="eposta">E-posta</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="hesabiniz_yok_mu">Hesabınız yok mu?</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="ad_soyad">Ad Soyad</string>
+    <string name="sifre_tekrar">Şifre Tekrar</string>
+    <string name="cep_telefonu">Cep Telefonu</string>
+    <string name="booking">Booking</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="edit">Düzenle</string>
+    <string name="new_entry">+ Yeni Ekle</string>
+    <string name="add_photo_btn">+ Fotoğraf Ekle</string>
+</resources>
